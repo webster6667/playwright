@@ -1,0 +1,5 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://webster:pass@cloud.qypytt7.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key"
+}
